@@ -1,3 +1,3 @@
 # cms-jupyter-materials-spanish
-TRANSLATE: This repository contains material for classroom activities using open data from CMS CERN. <br>
-Materials include basic introduction to Python and Jupyter Notebooks and ready exercises for the classrooms.
+Este repositorio contiene material para actividades de clase utilizando los datos de acceso libre de CMS del CERN.
+Se incluye una introduccion basica a Python y Jupyter Notebooks y ejercicios listos para clase. 
